@@ -1,0 +1,855 @@
+1667050928085	geckodriver	INFO	Listening on 127.0.0.1:57823
+1667050928665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57824" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilefFStDV"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667050932152	Marionette	INFO	Marionette enabled
+1667050932180	Marionette	INFO	Listening on port 57832
+WebDriver BiDi listening on ws://localhost:57824
+Read port: 57832
+1667050932474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilefFStDV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57824/devtools/browser/47cd140f-461b-4d15-8a24-63d3a4b3545a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://www.justfly.com/js/index.1666879271.js, line 1148: unreachable code after return statement
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=flighthub.com&sid=3d050a6b5b3740d39a2bf27cd33e4819, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.justfly.com/js/index.1666879271.js, line 1148: unreachable code after return statement
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 200: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 200: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 4686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://beacon.riskified.com/?shop=flighthub.com&sid=3d050a6b5b3740d39a2bf27cd33e4819, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667051060307	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667051060422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667051068326	Marionette	INFO	Stopped listening on port 57832
+1667051072678	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1667052534258	geckodriver	INFO	Listening on 127.0.0.1:58812
+1667052534305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58813" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileZ9YAXd"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667052536978	Marionette	INFO	Marionette enabled
+1667052537139	Marionette	INFO	Listening on port 58818
+WebDriver BiDi listening on ws://localhost:58813
+Read port: 58818
+1667052537310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileZ9YAXd/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:58813/devtools/browser/8b1157aa-713e-4d16-a1c9-6cc404dd7159
+1667052551879	Marionette	INFO	Stopped listening on port 58818
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1667140946193	geckodriver	INFO	Listening on 127.0.0.1:59762
+1667140946409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59763" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileIsFtDl"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667140948914	Marionette	INFO	Marionette enabled
+1667140949068	Marionette	INFO	Listening on port 59768
+WebDriver BiDi listening on ws://localhost:59763
+Read port: 59768
+1667140949229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileIsFtDl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59763/devtools/browser/355af539-0aeb-460f-b460-3f4dde1f9bff
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667140975603	Marionette	INFO	Stopped listening on port 59768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1667141032169	geckodriver	INFO	Listening on 127.0.0.1:59862
+1667141032180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59863" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilePdgttq"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141032762	Marionette	INFO	Marionette enabled
+1667141032933	Marionette	INFO	Listening on port 59868
+WebDriver BiDi listening on ws://localhost:59863
+Read port: 59868
+1667141033089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilePdgttq/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:59863/devtools/browser/59a1502c-d0e9-41cf-b9de-43837df45e0f
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967323/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967325/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1667141232809	Marionette	INFO	Stopped listening on port 59868
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667141235349	geckodriver	INFO	Listening on 127.0.0.1:60096
+1667141235368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60097" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile4i00ZU"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141235952	Marionette	INFO	Marionette enabled
+1667141236124	Marionette	INFO	Listening on port 60102
+WebDriver BiDi listening on ws://localhost:60097
+Read port: 60102
+1667141236285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile4i00ZU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60097/devtools/browser/6a84c723-e0e9-4be9-b56a-7a918358a8bc
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1667141546740	geckodriver	INFO	Listening on 127.0.0.1:60362
+1667141547244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60363" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileWveF0e"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141549492	Marionette	INFO	Marionette enabled
+1667141549657	Marionette	INFO	Listening on port 60369
+WebDriver BiDi listening on ws://localhost:60363
+Read port: 60369
+1667141549824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileWveF0e/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:60363/devtools/browser/1143d0c9-6b2e-4343-8684-0a2de2853e79
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667141694214	Marionette	INFO	Stopped listening on port 60369
+1667141699214	Marionette	INFO	Stopped listening on port 60102
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667141730765	geckodriver	INFO	Listening on 127.0.0.1:60579
+1667141730773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60580" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileivkC9y"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141733005	Marionette	INFO	Marionette enabled
+1667141733079	Marionette	INFO	Listening on port 60583
+WebDriver BiDi listening on ws://localhost:60580
+Read port: 60583
+1667141733393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileivkC9y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60580/devtools/browser/66b020b5-7c89-4c33-84c9-24dbffbe86f6
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141748400	Marionette	INFO	Stopped listening on port 60583
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1667141751354	geckodriver	INFO	Listening on 127.0.0.1:60756
+1667141751369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60757" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2qmoDk"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141751972	Marionette	INFO	Marionette enabled
+1667141752136	Marionette	INFO	Listening on port 60760
+WebDriver BiDi listening on ws://localhost:60757
+Read port: 60760
+1667141752297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2qmoDk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60757/devtools/browser/6abcf0d1-3774-4700-8c71-23e926429d9a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667141759548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667141794190	Marionette	INFO	Stopped listening on port 60760
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667142965204	geckodriver	INFO	Listening on 127.0.0.1:61083
+1667142965218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61084" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile0ElC3G"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667142965851	Marionette	INFO	Marionette enabled
+1667142966026	Marionette	INFO	Listening on port 61087
+WebDriver BiDi listening on ws://localhost:61084
+Read port: 61087
+1667142966192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile0ElC3G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61084/devtools/browser/022ec087-854a-4189-8e58-160eb18b1d8d
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 1385 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667142997394	Marionette	INFO	Stopped listening on port 61087
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+1667159683056	geckodriver	INFO	Listening on 127.0.0.1:62681
+1667159683537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62682" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileihznSr"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667159686047	Marionette	INFO	Marionette enabled
+1667159686216	Marionette	INFO	Listening on port 62687
+WebDriver BiDi listening on ws://localhost:62682
+Read port: 62687
+1667159686380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileihznSr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62682/devtools/browser/78ec04ef-a502-42c4-a597-a9a34fadfb28
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667159752630	Marionette	INFO	Stopped listening on port 62687
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667159755769	geckodriver	INFO	Listening on 127.0.0.1:63165
+1667159756276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63166" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofiley7lPFu"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667159758627	Marionette	INFO	Marionette enabled
+1667159758662	Marionette	INFO	Listening on port 63174
+WebDriver BiDi listening on ws://localhost:63166
+Read port: 63174
+1667159758914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofiley7lPFu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63166/devtools/browser/7bdaee13-2269-43f7-820f-600b52266a5a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 7211 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667159848481	Marionette	INFO	Stopped listening on port 63174
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667160228325	geckodriver	INFO	Listening on 127.0.0.1:63957
+1667160228826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63958" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJDdaOT"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667160231073	Marionette	INFO	Marionette enabled
+1667160231245	Marionette	INFO	Listening on port 63964
+WebDriver BiDi listening on ws://localhost:63958
+Read port: 63964
+1667160231411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJDdaOT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63958/devtools/browser/b007717d-6bde-4a3e-919d-1c7a1c30dd75
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667160238505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6137 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667160571051	Marionette	INFO	Stopped listening on port 63964
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667160578773	geckodriver	INFO	Listening on 127.0.0.1:64541
+1667160579276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64542" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilelfLU4m"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667160581607	Marionette	INFO	Marionette enabled
+1667160581737	Marionette	INFO	Listening on port 64548
+WebDriver BiDi listening on ws://localhost:64542
+Read port: 64548
+1667160581905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilelfLU4m/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:64542/devtools/browser/0d09e93c-51a8-4e4f-9d76-36f3835df1db
+1667160588145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667161211870	geckodriver	INFO	Listening on 127.0.0.1:65185
+1667161212394	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65186" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileD1fxsW"
+1667161213791	Marionette	INFO	Stopped listening on port 64548
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667161215805	Marionette	INFO	Marionette enabled
+1667161216198	Marionette	INFO	Listening on port 65193
+WebDriver BiDi listening on ws://localhost:65186
+Read port: 65193
+1667161216389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileD1fxsW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65186/devtools/browser/bffaffd7-966e-4971-a5e9-ff5ce09323b4
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667161223675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667167117045	geckodriver	INFO	Listening on 127.0.0.1:49606
+1667167117539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49607" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileVje8io"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167119827	Marionette	INFO	Marionette enabled
+1667167120007	Marionette	INFO	Listening on port 49612
+WebDriver BiDi listening on ws://localhost:49607
+Read port: 49612
+1667167120176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167121372	Marionette	INFO	Stopped listening on port 65193
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileVje8io/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49607/devtools/browser/33b9e596-f9d7-4389-9a71-2f584a95f98e
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 4730 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6723 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2984 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 5361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3773 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 53 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/fahlgrenmortinensudcm836318650420/moatad.js#moatClientLevel1=28133162&moatClientLevel2=1667377&moatClientLevel3=344376791&moatClientLevel4=180062951&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatADV=10788782&zMoatUSER=AMsySZZyiiH8tkG49NlJymDq9Z7p, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3718 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 4983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667167253451	geckodriver	INFO	Listening on 127.0.0.1:50221
+1667167253462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50222" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileonXEyS"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167254046	Marionette	INFO	Marionette enabled
+1667167254224	Marionette	INFO	Listening on port 50225
+WebDriver BiDi listening on ws://localhost:50222
+Read port: 50225
+1667167254431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileonXEyS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50222/devtools/browser/90f9139b-9359-4a22-b349-4e5e9bd01f20
+1667167256592	Marionette	INFO	Stopped listening on port 49612
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167261395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 1944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/fahlgrenmortinensudcm836318650420/moatad.js#moatClientLevel1=28133162&moatClientLevel2=1667377&moatClientLevel3=344671975&moatClientLevel4=176580703&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatADV=10788782&zMoatUSER=AMsySZZhn3hxcRcGa9-kSQKOKM01, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 5418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167325584	Marionette	INFO	Stopped listening on port 50225
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667167329771	geckodriver	INFO	Listening on 127.0.0.1:50833
+1667167329785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50834" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileg8bjCm"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167330364	Marionette	INFO	Marionette enabled
+1667167330538	Marionette	INFO	Listening on port 50838
+WebDriver BiDi listening on ws://localhost:50834
+Read port: 50838
+1667167330702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileg8bjCm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50834/devtools/browser/b7a9a8e7-e46e-4942-ac82-81255c5e4fc7
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167337580	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 1276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/fahlgrenmortinensudcm836318650420/moatad.js#moatClientLevel1=28133162&moatClientLevel2=1667377&moatClientLevel3=344376791&moatClientLevel4=176712371&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatADV=10788782&zMoatUSER=AMsySZazu9nOCgAMHHktYLJN9a_J, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/fahlgrenmortinensudcm836318650420/moatad.js#moatClientLevel1=28133162&moatClientLevel2=1667377&moatClientLevel3=344671975&moatClientLevel4=176580703&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatADV=10788782&zMoatUSER=AMsySZazu9nOCgAMHHktYLJN9a_J, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167520919	Marionette	INFO	Stopped listening on port 50838
+1667167847797	geckodriver	INFO	Listening on 127.0.0.1:52040
+1667167848291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52041" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileeO03kB"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667167850812	Marionette	INFO	Marionette enabled
+1667167850979	Marionette	INFO	Listening on port 52046
+Read port: 52046
+WebDriver BiDi listening on ws://localhost:52041
+1667167851159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileeO03kB/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:52041/devtools/browser/def23155-c694-4f35-804f-0651fcb77db8
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 3463 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667167920308	Marionette	INFO	Stopped listening on port 52046
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667168069011	geckodriver	INFO	Listening on 127.0.0.1:52665
+1667168069027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52666" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilewtJbGT"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667168069654	Marionette	INFO	Marionette enabled
+1667168069835	Marionette	INFO	Listening on port 52669
+WebDriver BiDi listening on ws://localhost:52666
+Read port: 52669
+1667168070001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilewtJbGT/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:52666/devtools/browser/a286593b-10d6-432a-b9f2-080d2093540a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/fahlgrenmortinensudcm836318650420/moatad.js#moatClientLevel1=28133162&moatClientLevel2=1667377&moatClientLevel3=344376791&moatClientLevel4=180062951&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatADV=10788782&zMoatUSER=AMsySZZUZgUNv562lT8KVhq8XetR, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667235285306	Marionette	INFO	Stopped listening on port 52669
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1667257501997	geckodriver	INFO	Listening on 127.0.0.1:56115
+1667257502384	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56116" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilea4fKAD"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667257505395	Marionette	INFO	Marionette enabled
+1667257505565	Marionette	INFO	Listening on port 56122
+WebDriver BiDi listening on ws://localhost:56116
+Read port: 56122
+1667257505874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilea4fKAD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56116/devtools/browser/4608932d-80c4-463c-83cf-a95d3405c1e4
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 4597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667258012017	Marionette	INFO	Stopped listening on port 56122
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667258021901	geckodriver	INFO	Listening on 127.0.0.1:56808
+1667258022380	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56809" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileoEj6DS"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667258024822	Marionette	INFO	Marionette enabled
+1667258025079	Marionette	INFO	Listening on port 56814
+WebDriver BiDi listening on ws://localhost:56809
+Read port: 56814
+1667258025238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileoEj6DS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56809/devtools/browser/0f4fd010-2907-484e-b76d-d72787461904
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667258032582	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/nOAuMeOBpF9evwNFXVQkLuXNj92N0OJ7uU_f3Vfdro8.js line 2 > eval line 727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667260574848	Marionette	INFO	Stopped listening on port 56814
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667345362726	geckodriver	INFO	Listening on 127.0.0.1:59775
+1667345363040	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59776" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileTobybD"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667345366733	Marionette	INFO	Marionette enabled
+1667345366840	Marionette	INFO	Listening on port 59782
+WebDriver BiDi listening on ws://localhost:59776
+Read port: 59782
+1667345367070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileTobybD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59776/devtools/browser/ce36a855-b5b5-4c6a-9722-feafd8b83259
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5352 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667345512059	Marionette	INFO	Stopped listening on port 59782
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1667345512929	geckodriver	INFO	Listening on 127.0.0.1:60378
+1667345513464	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60379" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileEY9Nb1"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667345516394	Marionette	INFO	Marionette enabled
+1667345516432	Marionette	INFO	Listening on port 60384
+WebDriver BiDi listening on ws://localhost:60379
+Read port: 60384
+1667345516813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileEY9Nb1/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:60379/devtools/browser/9572ce5f-0f50-4477-b0ae-c27dcdea9022
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 3275 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667345573645	Marionette	INFO	Stopped listening on port 60384
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667345756537	geckodriver	INFO	Listening on 127.0.0.1:60913
+1667345757050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60914" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileuicsaW"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667345759722	Marionette	INFO	Marionette enabled
+1667345759893	Marionette	INFO	Listening on port 60919
+Read port: 60919
+WebDriver BiDi listening on ws://localhost:60914
+1667345760082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileuicsaW/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:60914/devtools/browser/6422de95-791a-40c3-80fb-1e9bc8917e9a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667345805502	Marionette	INFO	Stopped listening on port 60919
+1667345921330	geckodriver	INFO	Listening on 127.0.0.1:61499
+1667345921852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61500" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile8Xr0f2"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667345924355	Marionette	INFO	Marionette enabled
+1667345924578	Marionette	INFO	Listening on port 61505
+WebDriver BiDi listening on ws://localhost:61500
+Read port: 61505
+1667345924922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile8Xr0f2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61500/devtools/browser/4eea0627-9a81-4859-925a-b160e438fc36
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667346047597	Marionette	INFO	Stopped listening on port 61505
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667346449783	geckodriver	INFO	Listening on 127.0.0.1:62038
+1667346450313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62039" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileOXfdvD"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667346452604	Marionette	INFO	Marionette enabled
+1667346452725	Marionette	INFO	Listening on port 62044
+WebDriver BiDi listening on ws://localhost:62039
+Read port: 62044
+1667346452896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileOXfdvD/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:62039/devtools/browser/84a4c0b1-dda8-46dc-8974-a9bbb1bc2af0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667346529032	Marionette	INFO	Stopped listening on port 62044
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667346567218	geckodriver	INFO	Listening on 127.0.0.1:62657
+1667346567740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62658" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileOFQlBP"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667346570215	Marionette	INFO	Marionette enabled
+1667346570351	Marionette	INFO	Listening on port 62663
+WebDriver BiDi listening on ws://localhost:62658
+Read port: 62663
+1667346570522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileOFQlBP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62658/devtools/browser/d2e5085d-ba42-47d0-b860-e9f545608a35
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667346623412	Marionette	INFO	Stopped listening on port 62663
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667346908235	geckodriver	INFO	Listening on 127.0.0.1:63271
+1667346908757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63272" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileSuCJlI"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667346911348	Marionette	INFO	Marionette enabled
+1667346911542	Marionette	INFO	Listening on port 63277
+WebDriver BiDi listening on ws://localhost:63272
+Read port: 63277
+1667346911709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileSuCJlI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63272/devtools/browser/7719da8d-203d-409e-aaf6-f35ba8e67a05
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667347151905	geckodriver	INFO	Listening on 127.0.0.1:63880
+1667347152434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63881" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileFfi3f2"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667347155546	Marionette	INFO	Marionette enabled
+1667347155719	Marionette	INFO	Listening on port 63888
+WebDriver BiDi listening on ws://localhost:63881
+Read port: 63888
+1667347155952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileFfi3f2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63881/devtools/browser/19c1e167-07bb-4ed1-bce7-c727b1fef16b
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5096 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667347269935	Marionette	INFO	Stopped listening on port 63277
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667347271384	Marionette	INFO	Stopped listening on port 63888
+1667347283284	geckodriver	INFO	Listening on 127.0.0.1:64442
+1667347283347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64443" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJq6CXf"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667347286417	Marionette	INFO	Marionette enabled
+1667347286655	Marionette	INFO	Listening on port 64446
+WebDriver BiDi listening on ws://localhost:64443
+Read port: 64446
+1667347286825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJq6CXf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64443/devtools/browser/398fcc45-4d1c-4b85-b8d1-33528e84d48b
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 2846 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667347366929	Marionette	INFO	Stopped listening on port 64446
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667348099260	geckodriver	INFO	Listening on 127.0.0.1:65177
+1667348099275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65178" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileUedLKp"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667348099891	Marionette	INFO	Marionette enabled
+1667348100085	Marionette	INFO	Listening on port 65181
+WebDriver BiDi listening on ws://localhost:65178
+Read port: 65181
+1667348100282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileUedLKp/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:65178/devtools/browser/57dbf111-3ba5-4771-8036-64cf3d5a521c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 3913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667348181620	Marionette	INFO	Stopped listening on port 65181
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667348585699	geckodriver	INFO	Listening on 127.0.0.1:49466
+1667348585714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49467" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileRvKOkF"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667348586342	Marionette	INFO	Marionette enabled
+1667348586528	Marionette	INFO	Listening on port 49470
+WebDriver BiDi listening on ws://localhost:49467
+Read port: 49470
+1667348586712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileRvKOkF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49467/devtools/browser/84721773-b5a6-4aa6-8aea-1fbf9b7adda0
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 6718 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667348701724	Marionette	INFO	Stopped listening on port 49470
+1667398731352	geckodriver	INFO	Listening on 127.0.0.1:51586
+1667398731823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51587" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilexXK95j"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667398734157	Marionette	INFO	Marionette enabled
+1667398734412	Marionette	INFO	Listening on port 51592
+WebDriver BiDi listening on ws://localhost:51587
+Read port: 51592
+1667398734570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilexXK95j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51587/devtools/browser/f33daa42-d019-41ca-bca1-722fc6cb8895
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5667 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 2596 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342613419&moatClientLevel4=176477193&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZ78yNkD6AVLeZ8ITbzd0L8&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=545847856;ord=fni2s1;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstfG9F1JaVZO55PR6KlK4TdOP2zQsWY8XUz1hqUYmNR9QHcvo67GoV4-d_3AFBX2BSBLjP6RLg0H59jPk77CYPL6-pev0FP7_HtwegMT7ovLjPBsKKjjkWNg_K5BqY3fHBvyX1PPGB-cStaWL_nO4F1D2oTNRKSs3ZJfTulIRzP1Z-VvKXjZM25NqRDKWqQQadpvMCb_RTAilGzK4gRk-6d2dTLkLoTXuUWwKKwFv0viB-YURa8y9y7ZRFZpmP1bVOY5ObOxE5XgWFgBNhMjg7BYozMtbY9bWIeEArw0-eXD3mR5_VD1_cRuVWteZpYFjk1f-aLFXUzMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342453230&moatClientLevel4=176475246&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZ78yNkD6AVLeZ8ITbzd0L8&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=1575237685;ord=kt7loy;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssNcDaKLqTr60ZArNDx_6PpIYYGdgtI4NDiIGPUP-L_Gg2Jp1uzNpsbZhexbsaqyQKQPmybSpHHNc5V8t9OrRWCo6owG5EETiq3ObGG3BXG5jbkPl7itn16ARLzPzMPY3gzN6-dcgob5l__Bk3-JT1aoHW9okEk9QXvdqj56eh1ahtTw6LO2ZvBgn0dW-clqVWFOCj0A27eZ_xVeqq8T6w3f6UfpUWFdKeXJknwNVyiWsOo3uJKEqErDaGwTdUCJC549G_qlVx7am1V_Iu1cOLY5r1OnEAeILuw2nuy2kT5qgGNPer8poqJtviLXi_cNsMJ1L88WY8zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667398822904	Marionette	INFO	Stopped listening on port 51592
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667398842556	geckodriver	INFO	Listening on 127.0.0.1:52203
+1667398842620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52204" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileeGqTGx"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667398844780	Marionette	INFO	Marionette enabled
+1667398844904	Marionette	INFO	Listening on port 52207
+WebDriver BiDi listening on ws://localhost:52204
+Read port: 52207
+1667398845100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileeGqTGx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52204/devtools/browser/224e79e3-c3f0-4f85-8068-24fb78f64c00
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667398901780	Marionette	INFO	Stopped listening on port 52207
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667398937382	geckodriver	INFO	Listening on 127.0.0.1:52808
+1667398937428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52809" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileRRBubQ"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667398939921	Marionette	INFO	Marionette enabled
+1667398940204	Marionette	INFO	Listening on port 52812
+WebDriver BiDi listening on ws://localhost:52809
+Read port: 52812
+1667398940878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileRRBubQ/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:52809/devtools/browser/64bbd1dd-92bf-411a-b3e3-1975b9edd75e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667399027746	Marionette	INFO	Stopped listening on port 52812
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667399047674	geckodriver	INFO	Listening on 127.0.0.1:53348
+1667399047729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53349" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileqnZTXf"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667399049738	Marionette	INFO	Marionette enabled
+1667399049929	Marionette	INFO	Listening on port 53352
+WebDriver BiDi listening on ws://localhost:53349
+Read port: 53352
+1667399050098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileqnZTXf/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:53349/devtools/browser/c7179bdb-2e67-46ad-b83b-8af25f847683
+1667399056898	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342613419&moatClientLevel4=176082761&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZYFdRpCzbZbY9-XuAsTFBAf&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=153375247;ord=19mz8o;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstOZ8Jr3JX3A2q714pV5tGcLWy4pZG5nQpefy6MBThWBvVyXVkAOFO1TYXNmw7hpo_2a2BmTF8oiAwssalqpnQUAcA613dAmsxzRAvJ6WPsqiyV8Q7lCNYctQaBD_KIQ_qvh7nXo8Yck3VnysMbZ-Ab8O4yhaIC3ohsIGkJ07TXHETX2Jk6HzZer-3kbZCN59dS1BGqMQFZtcovbUQRtmh2MLN0Ru2vUKZJcZvoI7P5fP--oJfhTtoIltnP9cr9Aaa1-maulJGvYEoCXYJgn7BebkP9mDFKoylxH7sE0h5d00YaLrBp5HgkM1f1kgtRE3hPngtUb0AzMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342453230&moatClientLevel4=175943578&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZYFdRpCzbZbY9-XuAsTFBAf&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=545847856;ord=om7gdv;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjst4cdUzU0_MyBYUk1Q-2C4Kc4rvokq8gvgZOFAMgQFXNU3CHcRy_5_ZNFbgW9XH1x4TQW_OeJOLmEa64GrD4ECps_V-wc99c8TQU5U44zi_sEzcyp3WU6MSwCFhZQM-5wvSF1OEqcg-ZokecVyjDlEjIgI2XGUM4J68Q1l9QvPxDxdF6Wp-AJHW8gHz3wRRkNzg_s8JN2PO2EuUxyV8BI8188SGPDisxL85tkTiOD4ww7NVuSACop8_UshgwiO2SQQkaQtiII6jR39qQPHruhh26CYUwZEycEwSd5779GkAh2HTa-IT6q-O7Qcek6GjdQe_lnCChw4zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667399090682	Marionette	INFO	Stopped listening on port 53352
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667399151034	geckodriver	INFO	Listening on 127.0.0.1:53992
+1667399151096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53993" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJoGbX5"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667399153734	Marionette	INFO	Marionette enabled
+1667399153760	Marionette	INFO	Listening on port 53996
+WebDriver BiDi listening on ws://localhost:53993
+Read port: 53996
+1667399153986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileJoGbX5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53993/devtools/browser/f8bada5d-3992-4ea3-bfd1-3cf8e90d3cbb
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667399161208	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 7511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 1631 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342453230&moatClientLevel4=176477199&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZW55zoukXPERBGak8ijnPM&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=545847856;ord=74rmza;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvqhvxLnZ5WvPr3HEZv2s4uMbFrFeyPRKMPt3iccvVCT5xqmzB9_nl22LmASeBmejgFlx1M-_Lv4uDYZipsxoNZhLo1__dddSV4-9dyV-Bj7IDIeaqzgX-9l_xJhi8tEDXsT86XNAV3yMm60FJXdXb69Y59NRjNUKF5-aGTA4BFcB1uiD-MqIheXyYAv5qFsEIrTsg6TxHpTOF0VRLUiUg01IFGjQQiJgydQ94-sh3lCxZAiNaS8dr7j6v4jeX84jo4la6yHhPN5Givk_085opupNLIFCn-ea8lui5Qbej5NFvxSVX6X6tj_owQOGAJTSD4ueY4ULMzMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342614478&moatClientLevel4=175942801&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZW55zoukXPERBGak8ijnPM&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=1575237685;ord=nricor;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss5jvxQVTKuSJrkJEsIdjpht4vipDratph8adTfhVw9_bwfLHZ_uDtU1Kvc5x2N9-MNeGbJc_jn6S6zJ0fBs5Wy3jwP3YVv4maJaiNT0jJf-Bpisnv-1_UpKF7ENED5IR8F7m434H-tOctfyNYqberRcOKYPBM3ZG-fo-43RzBp9icA2zHmTcck6mzFIGEEV1M0akk3G3aoVImroGYhYzkBqDF9KCzy-jvQ-MiqZnmnw-DntIY9OT3N_SuPvM6o2YCLGOzBnNV4T9vhJVExZQJTMn4vYzTlD95TfugY_RCbo3Bsx-oKG2C4yXDjqFETDlh2l3-1qB0zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6124 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1667401868401	Marionette	INFO	Stopped listening on port 53996
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667401948627	geckodriver	INFO	Listening on 127.0.0.1:55754
+1667401949063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55755" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2Difbf"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667401951859	Marionette	INFO	Marionette enabled
+1667401951885	Marionette	INFO	Listening on port 55760
+WebDriver BiDi listening on ws://localhost:55755
+Read port: 55760
+1667401952128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2Difbf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55755/devtools/browser/532d4532-b4e7-4755-b453-3884882efd07
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 6018 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667402133748	geckodriver	INFO	Listening on 127.0.0.1:56413
+1667402133763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56414" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileDaoV3f"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1667402134403	Marionette	INFO	Marionette enabled
+1667402134580	Marionette	INFO	Listening on port 56417
+WebDriver BiDi listening on ws://localhost:56414
+Read port: 56417
+1667402134746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileDaoV3f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56414/devtools/browser/c34d556f-a7f7-457e-99ca-d635cfd0606e
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vLbRz7g6TQ5oo3iSl-9A8cc-tNTKSUSKynQIdvKxkcY.js line 2 > eval line 5271 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667413985459	Marionette	INFO	Stopped listening on port 56417
+1667413986757	Marionette	INFO	Stopped listening on port 55760
