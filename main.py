@@ -136,7 +136,7 @@ def start_kayak(city_from, city_to, date_start, date_end):
     sleep(randint(8,10))
    
     try:
-        xp_pop_up_close = '//button[contains(@class="B5la-button") and contains(@class,"Button-No-Standard-Style close ")]'
+        xp_pop_up_close = '//button[contains(@class="B5la-button") and contains(@class,"Button-No-Standard-Style close")]'
         driver.find_elements(By.XPATH, xp_pop_up_close)[5].click()
         
     except Exception as e:
@@ -152,9 +152,9 @@ def start_kayak(city_from, city_to, date_start, date_end):
     df_flights_best['sort'] = 'best'
     sleep(randint(60, 80))
     
-    matrix = driver.find_elements(By.XPATH, '//*[contains(@id,"FlexMatriceCell")]')
+    matrix = driver.find_elements(By.XPATH, '//*[contains(@id, "FlexMatrix")]')
     matrix_prices = [price.text.replace('$', '') for price in matrix]
-    matrix_prices = list(map(int, matrix_prices))
+    matrix_prices = list(map(locale.atoi, matrix_prices))
     matrix_min = min(matrix_prices)
     matrix_avg = sum(matrix_prices)/len(matrix_prices)
     
