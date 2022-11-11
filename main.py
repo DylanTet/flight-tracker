@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 import smtplib
 from email.mime.multipart import MIMEMultipart
 import locale
+import os
 
 #Setting up the initital driver along with kayak url then going to the Kayak website
 locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' ) 
@@ -136,8 +137,8 @@ def start_kayak(city_from, city_to, date_start, date_end):
     sleep(randint(8,10))
    
     try:
-        xp_pop_up_close = '//button[contains(@class="B5la-button") and contains(@class,"Button-No-Standard-Style close")]'
-        driver.find_elements(By.XPATH, xp_pop_up_close)[5].click()
+        # xp_pop_up_close = '//div[contains(@class,"ui-dialog") and @aria-describedby="dialogContent2"]//button[@title="Close"]'
+        driver.find_elements(By.CLASS_NAME, 'B5la-button').click()
         
     except Exception as e:
         pass
@@ -185,6 +186,10 @@ def start_kayak(city_from, city_to, date_start, date_end):
     sleep(randint(60,80))
     
     # saving a new dataframe as an excel file. the name is custom made to your cities and dates
+    flight_directory = './search_backups'
+    if not os.path.exists(flight_directory):
+        os.mkdir(flight_directory)
+        
     final_df = df_flights_cheap.append(df_flights_best).append(df_flights_fast)
     final_df.to_excel('search_backups//{}_flights_{}-{}_from_{}_to_{}.xlsx'.format(strftime("%Y%m%d-%H%M"),
                                                                                    city_from, city_to, 

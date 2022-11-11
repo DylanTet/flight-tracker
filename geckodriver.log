@@ -957,3 +957,468 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:58508/devtools/browser/0880b51b-1e3c-4b8f-99d5-31564aba4d1c
 _RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 7506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668175568687	Marionette	INFO	Stopped listening on port 58515
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668175578405	geckodriver	INFO	Listening on 127.0.0.1:58907
+1668175578477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58908" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilesIRffK"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668175581177	Marionette	INFO	Marionette enabled
+1668175581425	Marionette	INFO	Listening on port 58913
+WebDriver BiDi listening on ws://localhost:58908
+Read port: 58913
+1668175581746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilesIRffK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58908/devtools/browser/a76eae45-d6a3-4f7c-9c4f-8ac7aca86c1a
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668175944749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668176263761	Marionette	INFO	Stopped listening on port 58913
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668176275392	geckodriver	INFO	Listening on 127.0.0.1:59872
+1668176275906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59873" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2MTiET"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668176279112	Marionette	INFO	Marionette enabled
+1668176279284	Marionette	INFO	Listening on port 59880
+WebDriver BiDi listening on ws://localhost:59873
+Read port: 59880
+1668176279488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile2MTiET/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59873/devtools/browser/ab7f3b14-2212-4746-9721-23415b77a438
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 4480 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1668176799588	geckodriver	INFO	Listening on 127.0.0.1:60306
+1668176800101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60307" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofiler19jmo"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668176802987	Marionette	INFO	Marionette enabled
+1668176803155	Marionette	INFO	Listening on port 60315
+WebDriver BiDi listening on ws://localhost:60307
+Read port: 60315
+1668176803343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofiler19jmo/search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1668176804797	Marionette	INFO	Stopped listening on port 60315
+1668176804812	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668176804919	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 963: Error: Error(s) encountered during statement execution: disk I/O error
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1445: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+console.error: "Could not load engine google@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2491\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2491\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2491\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2491\"  data: no]"
+console.error: SearchService: "Could not find a replacement default engine."
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: region-update-timer
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1668176817170	Marionette	INFO	Stopped listening on port 59880
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1668176860416	geckodriver	INFO	Listening on 127.0.0.1:60371
+1668176860938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60372" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileKgQSgd"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668176863322	Marionette	INFO	Marionette enabled
+1668176863499	Marionette	INFO	Listening on port 60378
+WebDriver BiDi listening on ws://localhost:60372
+Read port: 60378
+1668176863671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileKgQSgd/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:60372/devtools/browser/034b1799-4761-44ad-8cf9-eac799b4f501
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+** Unknown exception behavior: 0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 2310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1693:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967307
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967316
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 4571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Task cancelled"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("this.columns.get(...) is undefined", "resource://devtools/client/shared/widgets/TableWidget.js", 186))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Task cancelled"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 2041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1059 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+TypeError: topBrowsingContext is null: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.jsm:399:7
+get windows@resource://devtools/server/actors/resources/utils/parent-process-storage.js:345:39
+get hosts@resource://devtools/server/actors/storage.js:161:34
+onWindowDestroyed@resource://devtools/server/actors/storage.js:320:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+observe@resource://devtools/server/actors/resources/utils/parent-process-storage.js:441:12
+
+1668178130767	geckodriver	INFO	Listening on 127.0.0.1:61298
+1668178130813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61299" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile1kJbUh"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668178133663	Marionette	INFO	Marionette enabled
+1668178133851	Marionette	INFO	Listening on port 61302
+WebDriver BiDi listening on ws://localhost:61299
+Read port: 61302
+1668178134062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofile1kJbUh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61299/devtools/browser/713da3d8-d5c0-41d0-9517-ffadb60ec497
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 6396 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967319"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342613419&moatClientLevel4=181288060&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZBWffrzLwp3IA0eTH3rUzF&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=153375247;ord=85heo3;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsvFBgTJh3mUgvYrRIQZ8EBR9FxvKC__xry7LPAnX8Z_rHvG39sbAJfH1ITymzUjDEcp2gFOMp4_qlnZ6flbZ-MFhYDvbW-HraAHpUbFs8x9SGpKNpolpcmruciH0TdQHsJV-n0yrf_FSary-VdnN0pFSL8VZlBAYuEcWu6e2tjyhWu4IbDDw8_8bO-N1viuWH-4hhGxe57fP3Gy4Nj7jUf0d5kX01cryrde3no8N4Q8exVscBzMned2Eon0lkYe8qP0Nf4uGcQNGdrSTMGMKJnwk7Z_Y6ID0roFoRvndplBVuPQxu6YjbGjGMp4lxE-78xgh1FBDw8zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342453230&moatClientLevel4=181854723&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZBWffrzLwp3IA0eTH3rUzF&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=545847856;ord=9zk5f8;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssWawvCrSh1VFPpvnXGv0sG-i2zrMvdhyBOxOMlw6OeQ7zFQB2Kk_Txl6Dg9D_nCbsnoZr7jMsFF-NyBKVPaeiasK0zEwAemTfYWNFQRTtE1viKHmxRkphVqh0HqYl4DtMToiIhyMP4PYwWCIe_Wm58yR9JBDcY8HOyKXEMnd8xT-07omxWnloyFaWii0NtqpjF0_AVYGl5WCXmbsh3TEt_s1RboFdLxiuchCt37YerT9vHuFW6YT2uFyFtmKJjM3bgNZOIsVqvsKDnJh3t1t9JAEhSjJa12xstJKIVm5MXrz7FNaW7llaZ0mE-EkiB6aY9XJ88K4YzMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 2637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 2397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668178479939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.error: "Unable to find target with innerWindowId:4294967332"
+console.error: "Unable to find target with innerWindowId:4294967332"
+console.error: "Unable to find target with innerWindowId:4294967332"
+console.error: "Unable to find target with innerWindowId:4294967332"
+console.error: "Unable to find target with innerWindowId:4294967333"
+console.error: "Unable to find target with innerWindowId:4294967333"
+console.error: "Unable to find target with innerWindowId:4294967333"
+console.error: "Unable to find target with innerWindowId:4294967333"
+console.error: "Unable to find target with innerWindowId:4294967334"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342613419&moatClientLevel4=181288060&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZBWffrzLwp3IA0eTH3rUzF&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=153375247;rc=1;ord=h155eq;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssUBKVHrjJQMZ9UG-lC7h4mJ45xef-GS1VNguF3VFxw-_xySL42p-ssgsLB5_fAln4cG2B6eMqVLyr0u6R6bs2w16afB2f3ooHy1LSZW548Mtmz6d4Htify5b0FHzccKakvUs1LC2h7zRudB6oqXiCqXXXUBkqfdufkNT2-N2m9rtUrLoCeDwagL4gkzaUqEOi1VJDbI6_uOnnyqlkvOG2KeYyV7eU0TUtqa1cixadBofpUNds_3Htci0FBHHf6vzMvZ8dVXo8EzGa-MlBvOiPtgWU6BI-UGFavVDiGjbl_3CTJzms6d8eK2BnZxDu47_8TgWIyQl8zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/chaseusdcm562975626226/moatad.js#moatClientLevel1=28297484&moatClientLevel2=4750883&moatClientLevel3=342453230&moatClientLevel4=181854720&zMoatG=ct=US&st=NV&city=13373&dma=206&zp=89156&bw=4&zMoatUSER=AMsySZZBWffrzLwp3IA0eTH3rUzF&zMoatADV=8308341&zMoatAN_Sell=_sd=1;dc_adk=545847856;rc=1;ord=3qpr9b;click=https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstm6ZDXQ5bZwsw9gcaKiu2nc7Lm3jlfqNBlzBMtUfj91yRxhacwOCMSqHQjyt3GUjR2wa23NjkrlnvT1SMaX3W0x_KaPr49kDO_fgfFtp7ZS3eEKQIPuSfas69VOYSufXBmJ8sCnx9H9V6nIgMjIk0GX6yMLHPFO8W9lTMc3qRuMnR_RCJ37I2sdmJC1LxXyQix5v5qU72kD-IhNYaR-zYl0Pu12NKMf9amScp5DCjsdoOebB5t9jh8biCJAt-CY7CHDf2ozOBV96u1FBA3jlVy52NLUo7ykZ47Rx03JJsj-Rrp_anRfEbwikSUVgaHrO02RXwh8r4zMoatENV=j&zMoatEXCH=%pu!, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 2065 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 7085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668179291452	geckodriver	INFO	Listening on 127.0.0.1:61594
+1668179291977	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61595" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilei2fvud"
+1668179294955	Marionette	INFO	Marionette enabled
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668179295136	Marionette	INFO	Listening on port 61600
+WebDriver BiDi listening on ws://localhost:61595
+Read port: 61600
+1668179295324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofilei2fvud/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61595/devtools/browser/4fb04ac9-1453-4434-89af-d291603ec2fd
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 72 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1693:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:552:49\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\ngoQuitApplication@chrome://global/content/globalOverlay.js:96:20\noncommand@chrome://browser/content/hiddenWindowMac.xhtml:1:18\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967328/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967328/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+1668179594919	Marionette	INFO	Stopped listening on port 61600
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967328/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1668179597687	Marionette	INFO	Stopped listening on port 61302
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668179600987	Marionette	INFO	Stopped listening on port 60378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1668179794575	geckodriver	INFO	Listening on 127.0.0.1:61854
+1668179795059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61855" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileh2ois4"
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+1668179797527	Marionette	INFO	Marionette enabled
+1668179797565	Marionette	INFO	Listening on port 61860
+WebDriver BiDi listening on ws://localhost:61855
+Read port: 61860
+1668179797794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/67/67zr5txj3yvd44sfyw4j2klh0000gn/T/rust_mozprofileh2ois4/search.json.mozlz4", (void 0)))
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+DevTools listening on ws://localhost:61855/devtools/browser/236755a6-753f-434b-af38-5bab57458b7c
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HXK1UBO5dJ_nYlUyX89SMP4zFPzfcfFy3F4kBoREzco.js line 2 > eval line 1571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
