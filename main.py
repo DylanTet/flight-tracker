@@ -134,19 +134,24 @@ def start_kayak(city_from, city_to, date_start, date_end):
     kayak = ('https://www.kayak.com/flights/' + city_from + '-' + city_to +
              '/' + date_start + '-flexible-3days/' + date_end + '-flexible-3days?sort=bestflight_a')
     driver.get(kayak)
-    sleep(randint(8,10))
-   
-    try:
-        # xp_pop_up_close = '//div[contains(@class,"ui-dialog") and @aria-describedby="dialogContent2"]//button[@title="Close"]'
-        driver.find_elements(By.CLASS_NAME, 'B5la-button').click()
-        
+    sleep(randint(60, 95))
+    
+    try: 
+        popup_close = driver.find_element(By.XPATH, '//div[@class="B5la-button"]').click()
+    
     except Exception as e:
         pass
     
-    sleep(randint(60, 95))
     print("Loading more...")
     
     load_more()
+
+    try: 
+        popup_close = driver.find_element(By.XPATH, '//div[@class="B5la-button"]').click()
+    
+    except Exception as e:
+        pass
+    
     print("Starting first scrape...")
     
     df_flights_best = page_scrape()
@@ -207,10 +212,10 @@ def start_kayak(city_from, city_to, date_start, date_end):
     if loading == weird:
         loading = 'Not sure'
     
-    username = 'YOUREMAIL@hotmail.com'
-    password = 'Gracie4261996'
+    username = 'tettemerd@gmail.com'
+    password = 'zzpvctquockwknlq'
     
-    server = smtplib.SMTP('smtp.outlook.com', 587)
+    server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
     server.login(username, password)
